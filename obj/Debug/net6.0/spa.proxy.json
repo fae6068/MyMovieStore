@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44472",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Users\\fae60\\MyMovieStore\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
